@@ -1,2 +1,2 @@
-# devops.sh
-A collection of minimal scripts to manage DevOps in a startup/self-hosted environment.
+# bootstrap.sh
+A collection of minimal scripts to manage various operations in a startup/self-hosted environment.
